@@ -1,7 +1,14 @@
-# Dev.Felipe
+# Dev.Felipe 
+
 <!-- [![Linkedin Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/felipefarinha/) -->
 
 ### Sobre 💬
+
+
+Cursando ADS com foco em Desenvolvimento Web. Meu objeto é incorporar minha vivência do designer ao desenvolvimento ⚡ 
+
+### Stacks
+  
 ![image](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -13,18 +20,11 @@
 
 <!-- ![image](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
 ![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![image]()
--->
-
-
-Cursando Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Web 
-Meu objeto é incorporar minha vivência do designer ao desenvolvimento ⚡ 
-
-
-<!-- ![image](https://github-readme-stats.vercel.app/api?username=felipefarinha) -->
-<!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=felipefarinha) -->
-
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  -->
+<!-- ![image]() -->
+<!-- ![image](https://github-readme-stats.vercel.app/api?username=felipefarinha)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=felipefarinha) -->
+<br>
 
 
 ## Cursos  👨🏼‍🏫
@@ -41,3 +41,9 @@ Meu objeto é incorporar minha vivência do designer ao desenvolvimento ⚡
 <!--
 ![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 -->
+<br><br>
+<div align="center">
+  <a href="https://github.com/felipefarinha">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipefarinha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefarinha&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
