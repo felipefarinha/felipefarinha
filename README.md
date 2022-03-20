@@ -43,9 +43,9 @@ Cursando ADS com foco em Desenvolvimento Web. Meu objeto é incorporar minha viv
 <!--
 ![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 -->
-<br><br>
-<div align="center">
-<!--   <a href="https://github.com/felipefarinha">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipefarinha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> -->
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefarinha&layout=compact&langs_count=7&theme=github_dark"/> -->
-</div>
+<!-- <br><br> -->
+<!-- <div align="center">
+  <a href="https://github.com/felipefarinha">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipefarinha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefarinha&layout=compact&langs_count=7&theme=github_dark"/>
+</div> -->
