@@ -29,6 +29,11 @@ Cursando ADS com foco em Desenvolvimento Web. Meu objeto é incorporar minha viv
 - Análise e Desenvolvimento de Sistemas (ADS) 
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 
+<!-- ## Experiências
+- Montando
+-
+- -->
+
 ## Contato
 [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561983406881)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefarinha/)
@@ -42,5 +47,5 @@ Cursando ADS com foco em Desenvolvimento Web. Meu objeto é incorporar minha viv
 <div align="center">
 <!--   <a href="https://github.com/felipefarinha">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipefarinha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefarinha&layout=compact&langs_count=7&theme=github_dark"/>
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefarinha&layout=compact&langs_count=7&theme=github_dark"/> -->
 </div>
