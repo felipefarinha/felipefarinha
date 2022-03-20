@@ -1,6 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQH-YKDWRmrFwg/profile-displaybackgroundimage-shrink_350_1400/0/1629512609681?e=1652918400&v=beta&t=M9b2AfAwJO0353gNPDCwpLtIWZtfJFfS5awN5NQTQ7U" width="100%;" alt="imagem"/><br>
-
-
 # Dev.Felipe!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
