@@ -3,7 +3,7 @@
 <!-- [![Linkedin Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/felipefarinha/) -->
 
 ### Sobre 💬
-Estudo Desenvolvimento de Sistemas com foco na Web e meus interesses são:
+Estudo Desenvolvimento de Sistemas com foco na Web e meus conhecimentos/interesses são:
 
 ![image](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
