@@ -1,6 +1,6 @@
 # Dev.Felipe 
 
-### Sobre 💬 <img src="https://github.com/felipefarinha/felipefarinha/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+### Sobre 💬 <img src="https://raw.githubusercontent.com/felipefarinha/felipefarinha/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 Estudo Desenvolvimento de Sistemas e meus conhecimentos/interesses são:
 
