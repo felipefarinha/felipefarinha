@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" max-width="500px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/felipefarinha/felipefarinha/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 # Dev.Felipe 
 
@@ -28,12 +28,6 @@ Estudo Desenvolvimento de Sistemas com foco na Web e meus conhecimentos/interess
 <!-- ![image]() -->
 <!-- ![image](https://github-readme-stats.vercel.app/api?username=felipefarinha)
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=felipefarinha) -->
-
-
-
-
-
-
 
 
 ## Cursos  👨🏼‍🏫
