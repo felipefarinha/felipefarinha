@@ -1,12 +1,8 @@
-<img src="https://github.com/felipefarinha/felipefarinha/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
 # Dev.Felipe 
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/felipefarinha/) -->
+### Sobre 💬 <img src="https://github.com/felipefarinha/felipefarinha/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-### Sobre 💬
-
-Estudo Desenvolvimento de Sistemas com foco na Web e meus conhecimentos/interesses são:
+Estudo Desenvolvimento de Sistemas e meus conhecimentos/interesses são:
 
 ![image](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +14,6 @@ Estudo Desenvolvimento de Sistemas com foco na Web e meus conhecimentos/interess
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- Cursando ADS com foco em Desenvolvimento Web. Meu objeto é incorporar minha vivência do designer ao desenvolvimento ⚡  -->
- 
 
 <!-- ### Stacks
 
@@ -30,7 +25,7 @@ Estudo Desenvolvimento de Sistemas com foco na Web e meus conhecimentos/interess
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=felipefarinha) -->
 
 
-## Cursos  👨🏼‍🏫
+### Cursos
 
 - Análise e Desenvolvimento de Sistemas (ADS) 
 - [Website](https://#) 💻 - Trabalhando...
@@ -40,15 +35,13 @@ Estudo Desenvolvimento de Sistemas com foco na Web e meus conhecimentos/interess
 -
 - -->
 
-## Contato
+### Contato
 [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561983406881)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefarinha/)
-[![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eC86AWMu)
+<!-- ![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) -->
+<!-- [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eC86AWMu) -->
+<!-- [![Linkedin Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/felipefarinha/) -->
 
-
-<!--
-![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
--->
 <!-- <br><br> -->
 <!-- <div align="center">
   <a href="https://github.com/felipefarinha">
