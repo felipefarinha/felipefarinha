@@ -1,8 +1,11 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" max-width="500px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+
 # Dev.Felipe 
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/felipefarinha/) -->
 
 ### Sobre 💬
+
 Estudo Desenvolvimento de Sistemas com foco na Web e meus conhecimentos/interesses são:
 
 ![image](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,7 +16,6 @@ Estudo Desenvolvimento de Sistemas com foco na Web e meus conhecimentos/interess
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 
 <!-- Cursando ADS com foco em Desenvolvimento Web. Meu objeto é incorporar minha vivência do designer ao desenvolvimento ⚡  -->
  
@@ -26,6 +28,13 @@ Estudo Desenvolvimento de Sistemas com foco na Web e meus conhecimentos/interess
 <!-- ![image]() -->
 <!-- ![image](https://github-readme-stats.vercel.app/api?username=felipefarinha)
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=felipefarinha) -->
+
+
+
+
+
+
+
 
 ## Cursos  👨🏼‍🏫
 
