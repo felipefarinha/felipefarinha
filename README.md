@@ -1,6 +1,6 @@
 # </Felipe.Dev>
  
-### Sobre 💬 <img src="https://raw.githubusercontent.com/felipefarinha/felipefarinha/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+### 💬 Sobre <img src="https://raw.githubusercontent.com/felipefarinha/felipefarinha/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 Meus conhecimentos e interesses são:
 
@@ -37,8 +37,7 @@ Meus conhecimentos e interesses são:
 
 ### 
 
-- +3 anos de experiência em desenvolvimento
-- [Website](https://#) 💻 - Working...
+- 💻 +3 anos de experiência em desenvolvimento
 
 <!-- ## Experiências
 - Montando
@@ -46,12 +45,12 @@ Meus conhecimentos e interesses são:
 - -->
 
 ### Contato
+<!-- ![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) -->
 [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561983406881)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefarinha/)
-<!-- ![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) -->
-<!-- [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eC86AWMu) -->
-<!-- [![Linkedin Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/felipefarinha/) -->
-<!-- [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://www.linkedin.com/in/felipefarinha/) -->
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/R3hGrP8DWG)
+[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Fahryn/)
+
 
 
 <!-- <br><br> -->
