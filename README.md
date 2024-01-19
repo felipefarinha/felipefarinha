@@ -1,5 +1,5 @@
-# Dev.Felipe
-
+# </Felipe.Dev>
+ 
 ### Sobre 💬 <img src="https://raw.githubusercontent.com/felipefarinha/felipefarinha/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 Meus conhecimentos e interesses são:
@@ -35,10 +35,9 @@ Meus conhecimentos e interesses são:
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=felipefarinha) -->
 
 
-### Cursos
+### 
 
-- Formado em Análise e Desenvolvimento de Sistemas 
-- +3 anos de experiência em Front-End
+- +3 anos de experiência em desenvolvimento
 - [Website](https://#) 💻 - Working...
 
 <!-- ## Experiências
